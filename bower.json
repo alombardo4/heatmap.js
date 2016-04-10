@@ -15,7 +15,7 @@
         "heatmap", "heat map", "heatmaps", "canvas", "html5", "web heatmaps"
     ],
     "main": [
-      "build/heatmap.js",
+      "build/heatmap.js"
     ],
     "license": "MIT",
     "ignore": [

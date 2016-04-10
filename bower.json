@@ -4,20 +4,18 @@
     "main": "build/heatmap.min.js",
     "homepage": "http://www.patrick-wied.at/static/heatmapjs/",
     "authors": [
-        "Patrick Wied <contact@patrick-wied.at>"
+        "Patrick Wied <contact@patrick-wied.at>",
+        "Alec Lombardo"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/pa7/heatmap.js.git"
+        "url": "https://github.com/alombardo4/heatmap.js.git"
     },
     "keywords": [
         "heatmap", "heat map", "heatmaps", "canvas", "html5", "web heatmaps"
     ],
     "main": [
       "build/heatmap.js",
-      "plugins/gmaps-heatmap.js",
-      "plugins/leaflet-heatmap.js",
-      "plugins/svg-area-heatmap.js"
     ],
     "license": "MIT",
     "ignore": [
